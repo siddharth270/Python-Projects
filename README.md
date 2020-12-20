@@ -1,1 +1,1 @@
-# This is my python projects repository
+# These are my python projects.
