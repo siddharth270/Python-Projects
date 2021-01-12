@@ -1,1 +1,1 @@
-# These are my python projects.
+# This is a Tic Tac Toe game made in python
